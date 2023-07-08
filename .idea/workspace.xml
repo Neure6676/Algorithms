@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code01_CordCoverMaxPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code02_CountFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code03_Near2Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code04_MinSwapStep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/Comp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/EqualProbRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/NotEqualProbRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/PrintB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/RandToRand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class1/SumOfFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/FindFirstIntersectNode$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/FindFirstIntersectNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/RecursiveTraversalBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/RecursiveTraversalBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/UnRecursiveTraversalBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class11/UnRecursiveTraversalBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/EncodeNaryTreeToBinaryTree$Codec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/EncodeNaryTreeToBinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/EncodeNaryTreeToBinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/EncodeNaryTreeToBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/LevelTraversalBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/LevelTraversalBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/PrintBinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/PrintBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/SerializeAndReconstructTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/SerializeAndReconstructTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/SuccessorNode$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/SuccessorNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/TreeMaxWidth$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class12/TreeMaxWidth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code01_IsCBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code01_IsCBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code02_IsBST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code02_IsBST$info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code02_IsBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code03_IsBalanceBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code03_IsBalanceBT$info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code03_IsBalanceBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code04_IsFull$Info1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code04_IsFull$Info2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code04_IsFull$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code04_IsFull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code05_MaxSubBSTSize$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code05_MaxSubBSTSize$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code05_MaxSubBSTSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code06_MaxDistance$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code06_MaxDistance$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class13/Code06_MaxDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code01_IsCBT$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code01_IsCBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code01_IsCBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code03_lowestAncestor$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code03_lowestAncestor$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code03_lowestAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code04_MaxHappy$Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code04_MaxHappy$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code04_MaxHappy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code05_LowestLexicography$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class14/Code05_LowestLexicography.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code01_Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code02_LessMoneySplitGold.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code03_BestArrange$Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code03_BestArrange$ProgramComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code03_BestArrange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code04_IPO$MaxProfitComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code04_IPO$MinCostComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code04_IPO$Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code04_IPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code05_UnionFind$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code05_UnionFind$UnionSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class15/Code05_UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code01_FriendCircles$Unionfind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code01_FriendCircles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code02_NumberOfIslands$UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code02_NumberOfIslands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code03_NumberOfIslandsII$UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class16/Code03_NumberOfIslandsII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code01_BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code02_DFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderBFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS1$DirectedGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS1$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS1$Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS2$DirectedGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS2$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS2$Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologicalOrderDFS2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code03_TopologySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code04_Kruskal$UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code04_Kruskal$edgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code04_Kruskal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code05_Prim$EdgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code05_Prim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Code06_Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/GraphGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class17/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code01_Dijkstra$NodeHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code01_Dijkstra$NodeRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code01_Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code02_Hanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code03_PrintAllSubsquences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code04_PrintAllPermutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class18/Code05_ReverseStackUsingRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class19/Code01_RobotWalk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class19/Code02_CardsInLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/BSAwesome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/BSNearLeft.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/BinarySearchExist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class2/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class20/Code01_Knapsack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class20/Code02_ConvertToLetterString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class20/Code03_StickersToSpellWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class20/Code04_LongestCommonSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class21/Code01_PalindromeSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class21/Code02_HorseJump.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class21/Code03_Coffee$Machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class21/Code03_Coffee$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class21/Code03_Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code01_MinPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code02_CoinsWayEveryPaperDifferent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code03_CoinsWayNoLimit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code04_CoinsWaySameValueSamePapper$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code04_CoinsWaySameValueSamePapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class22/Code05_BobDie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class23/Code01_KillMonster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class23/Code02_MinCoinsNoLimit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class23/Code03_SplitNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class24/Code01_SplitSumClosed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class24/Code02_SplitSumClosedSizeHalf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class24/Code03_NQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class25/Code01_SlidingWindowMaxArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class25/Code02_AllLessNumSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class26/Code01_MonotonousStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class26/Code02_AllTimesMinToMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class26/Code03_LargestRectangleInHistogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class26/Code04_MaximalRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class26/Code05_CountSubmatricesWithAllOnes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class3/EvenTimesOddTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class3/KV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class3/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DeleteGivenValue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DeleteGivenValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue$DoubleEndsQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue$MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue$MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/GetMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/GetMinStack$MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/GetMinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/LinkedListToStackAndQueue$MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/LinkedListToStackAndQueue$MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/LinkedListToStackAndQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/LinkedListToStackAndQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/ReverseList$DoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/ReverseList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/RingArray$MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/RingArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/TwoQueuesToStack$TwoQueueStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/TwoQueuesToStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/TwoStacksToQueue$TwoStacksQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class4/TwoStacksToQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class5/BiggerThanRightTwice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class5/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class5/ReversePair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class5/SmallSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/CountOfRangeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/PreSum$RangeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/PreSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/Heap$MyMaxHeap$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/Heap$MyMaxHeap$RightMaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/Heap$MyMaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/SortArrayDistanceLessK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$AComp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$IdAscendingComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$IdDescendingComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$IdInAgeDe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$IdShengAgeJiangOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$MyComp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class7/myComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/CoverMax$EndComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/CoverMax$Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/CoverMax$StartComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/CoverMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/EveryStepShowBoss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class8/HeapGreater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class9/CountSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class9/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class9/Trie$Node1$Trie1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class9/Trie$Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class9/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code01_CordCoverMaxPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code02_CountFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code03_Near2Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code04_MinSwapStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code05_LongestIncreasingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code06_AOE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code07_TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/Comp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/EqualProbRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/NotEqualProbRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/PrintB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/RandToRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class1/SumOfFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class11/FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class11/RecursiveTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class11/UnRecursiveTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/EncodeNaryTreeToBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/LevelTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class12/TreeMaxWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code01_IsCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code02_IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code03_IsBalanceBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code04_IsFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code05_MaxSubBSTSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class13/Code06_MaxDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class14/Code01_IsCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class14/Code03_lowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class14/Code04_MaxHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class14/Code05_LowestLexicography.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class15/Code01_Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class15/Code02_LessMoneySplitGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class15/Code03_BestArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class15/Code04_IPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class15/Code05_UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class16/Code01_FriendCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class16/Code02_NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class16/Code03_NumberOfIslandsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code01_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code02_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code03_TopologicalOrderBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code03_TopologicalOrderDFS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code03_TopologicalOrderDFS2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code03_TopologySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code04_Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code05_Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Code06_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/GraphGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class17/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class18/Code01_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class18/Code02_Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class18/Code03_PrintAllSubsquences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class18/Code04_PrintAllPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class18/Code05_ReverseStackUsingRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class19/Code01_RobotWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class19/Code02_CardsInLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/BSAwesome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/BSNearLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/BinarySearchExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class2/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code01_Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code02_ConvertToLetterString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code03_StickersToSpellWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code04_LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class21/Code01_PalindromeSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class21/Code02_HorseJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class21/Code03_Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class22/Code01_MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class22/Code02_CoinsWayEveryPaperDifferent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class22/Code03_CoinsWayNoLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class22/Code04_CoinsWaySameValueSamePapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class22/Code05_BobDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class23/Code01_KillMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class23/Code02_MinCoinsNoLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class23/Code03_SplitNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class24/Code01_SplitSumClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class24/Code02_SplitSumClosedSizeHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class24/Code03_NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class25/Code01_SlidingWindowMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class25/Code02_AllLessNumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class26/Code01_MonotonousStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class26/Code02_AllTimesMinToMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class26/Code03_LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class26/Code04_MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class26/Code05_CountSubmatricesWithAllOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class3/EvenTimesOddTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class3/KV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class3/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/DeleteGivenValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/DoubleEndsQueueToStackAndQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/GetMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/LinkedListToStackAndQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/RingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/TwoQueuesToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class4/TwoStacksToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class5/BiggerThanRightTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class5/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class5/ReversePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class5/SmallSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class6/CountOfRangeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class6/PreSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class6/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class7/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class7/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class7/SortArrayDistanceLessK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class7/myComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class8/CoverMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class8/EveryStepShowBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class8/HeapGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class9/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class9/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class9/Trie.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K9EuLz7XwTkQw9HWbL2ARlRVJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/zhenyuanzhang/Desktop/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SystematicClass.Class17" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Code04_MinSwapStep">
+    <configuration name="Code01_CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code01_CordCoverMaxPoint" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_AllTimesMinToMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class26.Code02_AllTimesMinToMax" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SystematicClass.Class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_CountFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code02_CountFiles" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_Near2Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code03_Near2Power" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code04_MinSwapStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code04_MinSwapStep" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Code04_MinSwapStep" />
+        <item itemvalue="Application.Code03_Near2Power" />
+        <item itemvalue="Application.Code02_CountFiles" />
+        <item itemvalue="Application.Code01_CordCoverMaxPoint" />
+        <item itemvalue="Application.Code02_AllTimesMinToMax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="" />
+      <created>1673378620051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673378620051</updated>
+      <workItem from="1673378621449" duration="6557000" />
+      <workItem from="1673466153238" duration="19055000" />
+      <workItem from="1673555905079" duration="44758000" />
+      <workItem from="1673904625411" duration="16627000" />
+      <workItem from="1674246099937" duration="31262000" />
+      <workItem from="1675368223378" duration="46000" />
+      <workItem from="1675368283286" duration="44461000" />
+      <workItem from="1675901038968" duration="137203000" />
+      <workItem from="1678473371191" duration="2424000" />
+      <workItem from="1678833413075" duration="4532000" />
+      <workItem from="1679437087161" duration="616000" />
+      <workItem from="1680892546636" duration="3792000" />
+      <workItem from="1681243345949" duration="566000" />
+      <workItem from="1681253162332" duration="1967000" />
+      <workItem from="1682996602620" duration="2420000" />
+      <workItem from="1683562808312" duration="968000" />
+      <workItem from="1683654222990" duration="3022000" />
+      <workItem from="1688411923826" duration="31511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
