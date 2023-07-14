@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code01_ChooseWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code02_Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code03_ReceiveAndPrintOrderLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code04_Drive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code05_SetAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class2/Code06_MinLengthForSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code01_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code02_HowManyTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code03_Largest1BorderedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code04_MaxPairNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code08_DistanceKNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code04_MinSwapStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code04_MinSwapStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class2/Code04_Drive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class2/Code04_Drive.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,33 +60,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04_Drive">
-    <configuration name="Code02_CountFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code02_CountFiles" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code03_Near2Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code03_Near2Power" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code04_MaxPairNumber">
     <configuration name="Code03_ReceiveAndPrintOrderLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class2.Code03_ReceiveAndPrintOrderLine" />
       <module name="Algorithm" />
@@ -114,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code04_MaxPairNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class3.Code04_MaxPairNumber" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code04_MinSwapStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code04_MinSwapStep" />
       <module name="Algorithm" />
@@ -127,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code08_DistanceKNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class3.Code08_DistanceKNodes" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_MaxPairNumber" />
+        <item itemvalue="Application.Code08_DistanceKNodes" />
         <item itemvalue="Application.Code04_Drive" />
         <item itemvalue="Application.Code03_ReceiveAndPrintOrderLine" />
         <item itemvalue="Application.Code04_MinSwapStep" />
-        <item itemvalue="Application.Code03_Near2Power" />
-        <item itemvalue="Application.Code02_CountFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="54049000" />
+      <workItem from="1688411923826" duration="66018000" />
     </task>
     <servers />
   </component>
