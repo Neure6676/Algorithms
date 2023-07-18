@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code01_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code02_HowManyTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code03_Largest1BorderedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code04_MaxPairNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code08_DistanceKNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code05_BoatsToSavePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code06_ClosestSubsequenceSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class2/Code04_Drive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class2/Code04_Drive.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +157,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="66018000" />
+      <workItem from="1688411923826" duration="71400000" />
     </task>
     <servers />
   </component>
