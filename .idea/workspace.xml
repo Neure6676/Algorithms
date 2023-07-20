@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class3/Code07_FreedomTrail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code01_AppleMinBags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code02_EatGrass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code03_MSumToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code04_MoneyProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +58,13 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04_MaxPairNumber">
-    <configuration name="Code03_ReceiveAndPrintOrderLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class2.Code03_ReceiveAndPrintOrderLine" />
+  <component name="RunManager" selected="Application.Code03_MSumToN">
+    <configuration name="Code01_AppleMinBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class39.Code01_AppleMinBags" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class2.*" />
+          <option name="PATTERN" value="SystematicClass.Class39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_Drive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class2.Code04_Drive" />
+    <configuration name="Code02_EatGrass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class39.Code02_EatGrass" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class2.*" />
+          <option name="PATTERN" value="SystematicClass.Class39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_MSumToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class39.Code03_MSumToN" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SystematicClass.Class39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ForOffer.Class3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code04_MinSwapStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code04_MinSwapStep" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_MSumToN" />
+        <item itemvalue="Application.Code02_EatGrass" />
+        <item itemvalue="Application.Code01_AppleMinBags" />
         <item itemvalue="Application.Code04_MaxPairNumber" />
         <item itemvalue="Application.Code08_DistanceKNodes" />
-        <item itemvalue="Application.Code04_Drive" />
-        <item itemvalue="Application.Code03_ReceiveAndPrintOrderLine" />
-        <item itemvalue="Application.Code04_MinSwapStep" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +159,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="74134000" />
+      <workItem from="1688411923826" duration="79697000" />
     </task>
     <servers />
   </component>
