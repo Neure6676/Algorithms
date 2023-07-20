@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code01_AppleMinBags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code02_EatGrass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code03_MSumToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code04_MoneyProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class40/Code01_SubsquenceMaxModM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class40/Code02_SnacksWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class39/Code03_MSumToN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class39/Code03_MSumToN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class39/Code04_MoneyProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class39/Code04_MoneyProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +58,26 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_MSumToN">
+  <component name="RunManager" selected="Application.Code01_SubsquenceMaxModM">
     <configuration name="Code01_AppleMinBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SystematicClass.Class39.Code01_AppleMinBags" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SystematicClass.Class39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_SubsquenceMaxModM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class40.Code01_SubsquenceMaxModM" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SystematicClass.Class40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code08_DistanceKNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class3.Code08_DistanceKNodes" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_SubsquenceMaxModM" />
         <item itemvalue="Application.Code03_MSumToN" />
         <item itemvalue="Application.Code02_EatGrass" />
         <item itemvalue="Application.Code01_AppleMinBags" />
         <item itemvalue="Application.Code04_MaxPairNumber" />
-        <item itemvalue="Application.Code08_DistanceKNodes" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="79697000" />
+      <workItem from="1688411923826" duration="88561000" />
     </task>
     <servers />
   </component>
