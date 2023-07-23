@@ -38,7 +38,7 @@ public class Code02_CountFiles {
     }
 
     public static void main(String[] args) {
-        String path = "/Users/zhenyuanzhang/Desktop/Algorithm/";
+        String path = "/Users/zhenyuanzhang/Desktop/Algorithm/src/SystematicClass";
         System.out.println(getFileNumber(path));
     }
 
