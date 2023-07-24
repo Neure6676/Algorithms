@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code01_QueryHobby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code02_SubArrayMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code03_SubMatrixMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code04_SubArrayMaxSumFollowUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code05_CandyProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code06_MakeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code07_InterleavingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code08_TheSkylineProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code01_ConstructBinarySearchTreeFromPreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code02_LeftRightSameTreeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code02_CountFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class1/Code02_CountFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class40/Code01_SubsquenceMaxModM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class40/Code01_SubsquenceMaxModM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class1/Code02_CountFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class1/Code02_CountFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class1/Code08_TheSkylineProblem.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +90,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class1.*" />
+          <option name="PATTERN" value="ForOffer.Class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,7 +159,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="103092000" />
+      <workItem from="1688411923826" duration="113939000" />
     </task>
     <servers />
   </component>
