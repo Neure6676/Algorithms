@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class4/Code08_TheSkylineProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code01_ConstructBinarySearchTreeFromPreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code02_LeftRightSameTreeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code03_EditCost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class1/Code08_TheSkylineProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_CountFiles">
+  <component name="RunManager" selected="Application.Code03_EditCost">
     <configuration name="Code01_QueryHobby" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class4.Code01_QueryHobby" />
       <module name="Algorithm" />
@@ -72,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_SubsquenceMaxModM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class40.Code01_SubsquenceMaxModM" />
+    <configuration name="Code02_CountFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code02_CountFiles" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SystematicClass.Class40.*" />
+          <option name="PATTERN" value="ForOffer.Class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_CountFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code02_CountFiles" />
+    <configuration name="Code03_EditCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class5.Code03_EditCost" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class4.*" />
+          <option name="PATTERN" value="ForOffer.Class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_EditCost" />
         <item itemvalue="Application.Code02_CountFiles" />
         <item itemvalue="Application.Code06_MakeNo" />
         <item itemvalue="Application.Code05_CandyProblem" />
         <item itemvalue="Application.Code01_QueryHobby" />
-        <item itemvalue="Application.Code01_SubsquenceMaxModM" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +158,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="113939000" />
+      <workItem from="1688411923826" duration="116732000" />
     </task>
     <servers />
   </component>
