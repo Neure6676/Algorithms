@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class5/Code04_DeleteMinCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/Code01_MaxXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/Code02_MaximumXorOfTwoNumbersInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/Code03_MaximumXorWithAnElementFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/Code04_MostXorZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/Code05_Nim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class6/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code01_MaxAndValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code02_MinCameraCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code03_MaxGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code04_Power2Diffs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code05_WorldBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +156,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="139024000" />
+      <workItem from="1688411923826" duration="140142000" />
     </task>
     <servers />
   </component>
