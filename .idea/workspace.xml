@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code05_WorldBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class8/Code01_ExpressionCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class8/Code02_ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class8/Code03_FindWordInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class8/Code04_SnakeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class7/Code05_WorldBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class7/Code05_WorldBreak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +59,13 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04_Power2Diffs">
-    <configuration name="Code02_CountFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class1.Code02_CountFiles" />
+  <component name="RunManager" selected="Application.Code02_ContainerWithMostWater">
+    <configuration name="Code02_ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class8.Code02_ContainerWithMostWater" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class4.*" />
+          <option name="PATTERN" value="ForOffer.Class8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_ContainerWithMostWater" />
         <item itemvalue="Application.Code04_Power2Diffs" />
         <item itemvalue="Application.Code04_MostXorZero" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Code03_EditCost" />
-        <item itemvalue="Application.Code02_CountFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,7 @@
       <workItem from="1682996602620" duration="2420000" />
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
-      <workItem from="1688411923826" duration="140142000" />
+      <workItem from="1688411923826" duration="150339000" />
     </task>
     <servers />
   </component>
