@@ -44,7 +44,7 @@ public class Code03_LIS {
             }
             right = Math.max(right, l);
             ends[l] = nums[i];
-            ans = Math.max(ans, l = 1);
+            ans = Math.max(ans, l + 1);
         }
         return ans;
     }
