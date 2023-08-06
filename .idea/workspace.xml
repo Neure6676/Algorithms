@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code01_JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code02_TopK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class9/Code04_EnvelopesProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code03_KInversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code04_BSTtoDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class9/Code03_LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class9/Code03_LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class20/Code04_LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code04_LongestCommonSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="20226000" />
+      <workItem from="1691095636033" duration="28350000" />
     </task>
     <servers />
   </component>
