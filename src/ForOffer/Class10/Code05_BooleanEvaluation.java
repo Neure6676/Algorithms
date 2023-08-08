@@ -16,6 +16,7 @@ public class Code05_BooleanEvaluation {
         }
     }
 
+    // 样本对应模型
     public static Info func(char[] str, int L, int R, Info[][] dp) {
         if (dp[L][R] != null) {
             return dp[L][R];

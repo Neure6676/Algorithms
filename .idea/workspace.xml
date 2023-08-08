@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code03_KInversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code04_BSTtoDoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code01_MinimumInsertionStepsToMakeAStringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class20/Code04_LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class20/Code04_LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class9/Code03_LIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class9/Code03_LIS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,20 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_LIS">
+  <component name="RunManager" selected="Application.Code01_MinimumInsertionStepsToMakeAStringPalindrome">
+    <configuration name="Code01_MinimumInsertionStepsToMakeAStringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class11.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code02_ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class8.Code02_ContainerWithMostWater" />
       <module name="Algorithm" />
@@ -78,19 +91,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ForOffer.Class9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code04_MostXorZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class6.Code04_MostXorZero" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
         <item itemvalue="Application.Code03_LIS" />
         <item itemvalue="Application.Code05_IsStepSum" />
         <item itemvalue="Application.Code02_ContainerWithMostWater" />
         <item itemvalue="Application.Code04_Power2Diffs" />
-        <item itemvalue="Application.Code04_MostXorZero" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="28350000" />
+      <workItem from="1691095636033" duration="33191000" />
     </task>
     <servers />
   </component>
