@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code01_MinimumInsertionStepsToMakeAStringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code01_ContainAllCharExactly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code02_FindKthMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code03_LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/addTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/lengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/twoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class9/Code03_LIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class9/Code03_LIS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class10/Code05_BooleanEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_MinimumInsertionStepsToMakeAStringPalindrome">
+  <component name="RunManager" selected="Application.lengthOfLongestSubstring">
     <configuration name="Code01_MinimumInsertionStepsToMakeAStringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class11.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
       <module name="Algorithm" />
@@ -98,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_Power2Diffs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class7.Code04_Power2Diffs" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Code05_IsStepSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class9.Code05_IsStepSum" />
       <module name="Algorithm" />
@@ -124,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeTop100.Class01.lengthOfLongestSubstring" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeTop100.Class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lengthOfLongestSubstring" />
         <item itemvalue="Application.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
         <item itemvalue="Application.Code03_LIS" />
         <item itemvalue="Application.Code05_IsStepSum" />
         <item itemvalue="Application.Code02_ContainerWithMostWater" />
-        <item itemvalue="Application.Code04_Power2Diffs" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +163,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="33191000" />
+      <workItem from="1691095636033" duration="53264000" />
     </task>
     <servers />
   </component>
