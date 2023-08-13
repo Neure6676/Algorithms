@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code01_ContainAllCharExactly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code02_FindKthMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code03_LongestConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/addTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/lengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code04_RegularExpressionMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class11/Code02_PalindromePartitioningII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class12/Code03_LongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class12/Code03_LongestConsecutive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +158,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="53264000" />
+      <workItem from="1691095636033" duration="61579000" />
     </task>
     <servers />
   </component>
