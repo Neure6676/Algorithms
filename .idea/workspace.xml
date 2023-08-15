@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class13/Code02_SuperWashingMachines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class13/Code04_BricksFallingWhenHit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class14/Code01_Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class14/Code02_MaxSubArraySumLessOrEqualK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class14/Code04_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class14/Code05_RecoverBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class14/Code06_MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class15/Code01_BestTimeToBuyAndSellStock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -160,7 +161,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="77174000" />
+      <workItem from="1691095636033" duration="87904000" />
     </task>
     <servers />
   </component>
