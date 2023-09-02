@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class15/Code03_BestTimeToBuyAndSellStockIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class15/Code05_BestTimeToBuyAndSellStockWithCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class15/Code06_BestTimeToBuyAndSellStockWithTransactionFee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code01_IsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code02_SmallestUnFormedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code03_MinPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code04_MergeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code05_JosephusProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code01_FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code02_KthSmallestElementInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code03_PalindromePairs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code04_DistinctSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code05_DistinctSubseqValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class19/Code01_LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +168,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="99492000" />
+      <workItem from="1691095636033" duration="140238000" />
     </task>
     <servers />
   </component>
