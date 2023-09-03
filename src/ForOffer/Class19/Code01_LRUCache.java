@@ -13,20 +13,24 @@ public class Code01_LRUCache {
      */
     class LRUCache {
 
+        private MyCache<Integer, Integer> cache;
 
 
         public LRUCache(int capacity) {
+            cache = new MyCache<>(capacity);
 
         }
 
         public int get(int key) {
-
+            Integer ans = cache.get(key);
+            return ans == null ? -1 : ans;
         }
 
         public void put(int key, int value) {
-
+            cache.set(key, value);
         }
 
+        // 范型提高扩展性
         public static class Node<K, V> {
             public K key;
             public V value;
@@ -39,6 +43,7 @@ public class Code01_LRUCache {
             }
         }
 
+        // 双向链表表示节点顺序
         public static class NodeDoubleLinkedList<K, V> {
             private Node<K, V> head;
             private Node<K, V> tail;
@@ -53,6 +58,7 @@ public class Code01_LRUCache {
                 if (newNode == null) {
                     return;
                 }
+                // 分离：分是不是head两种情况
                 if (head == null) {
                     head = newNode;
                     tail = newNode;
@@ -108,6 +114,32 @@ public class Code01_LRUCache {
                 keyNodeMap = new HashMap<K, Node<K, V>>();
                 nodeList = new NodeDoubleLinkedList<K, V>();
                 capacity = cap;
+            }
+
+            public V get(K key) {
+                if (keyNodeMap.containsKey(key)) {
+                    Node<K, V> res = keyNodeMap.get(key);
+                    nodeList.moveNodeToTail(res);
+                    return res.value;
+                }
+                return null;
+            }
+
+            // 可能是新增 也可能是更新
+            public void set(K key, V val) {
+                if (keyNodeMap.containsKey(key)) { //更新
+                    Node<K, V> res = keyNodeMap.get(key);
+                    res.value = val;
+                    nodeList.moveNodeToTail(res);
+                } else {  // 新增
+                    Node<K, V> res = new Node<>(key, val);
+                    keyNodeMap.put(key, res);
+                    nodeList.addNode(res);
+                    if (keyNodeMap.size() == capacity + 1) { // 超过容量 把最久的扔掉
+                        Node<K, V> removeNode = nodeList.removeHead();
+                        keyNodeMap.remove(removeNode.key);
+                    }
+                }
             }
 
 

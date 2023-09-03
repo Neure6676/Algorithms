@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code01_IsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code02_SmallestUnFormedSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code03_MinPatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code04_MergeRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class16/Code05_JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code01_FindNumInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code02_KthSmallestElementInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code03_PalindromePairs1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code04_DistinctSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class17/Code05_DistinctSubseqValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class19/Code01_LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class19/Code02_LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class19/Code03_OneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class13/Code01_NCardsABWin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class13/Code01_NCardsABWin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class19/Code01_LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class19/Code01_LRUCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_NCardsABWin">
+  <component name="RunManager" selected="Application.Code03_OneNumber">
     <configuration name="Code01_MinimumInsertionStepsToMakeAStringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class11.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
       <module name="Algorithm" />
@@ -106,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code05_IsStepSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class9.Code05_IsStepSum" />
+    <configuration name="Code03_OneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class19.Code03_OneNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class9.*" />
+          <option name="PATTERN" value="ForOffer.Class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_OneNumber" />
         <item itemvalue="Application.Code01_NCardsABWin" />
         <item itemvalue="Application.lengthOfLongestSubstring" />
         <item itemvalue="Application.Code01_MinimumInsertionStepsToMakeAStringPalindrome" />
         <item itemvalue="Application.Code03_LIS" />
-        <item itemvalue="Application.Code05_IsStepSum" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +161,7 @@
       <workItem from="1683562808312" duration="968000" />
       <workItem from="1683654222990" duration="3022000" />
       <workItem from="1688411923826" duration="157461000" />
-      <workItem from="1691095636033" duration="140238000" />
+      <workItem from="1691095636033" duration="157765000" />
     </task>
     <servers />
   </component>
