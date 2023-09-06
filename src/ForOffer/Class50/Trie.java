@@ -6,6 +6,7 @@ class Trie {
         public int pass;
         public int end;
         public TrieNode[] nexts;
+        // public HashMap<Integer, TrieNode> nexts;
 
         public TrieNode() {
             pass = 0;
