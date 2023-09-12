@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class50/Problem_0588_DesignInMemoryFileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemI/level1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemI/level2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemI/level3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemI/level4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemII/level1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/FuncMaxDiff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class50/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class50/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class50/Problem_0588_DesignInMemoryFileSystem$FileSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class50/Problem_0588_DesignInMemoryFileSystem$FileSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class50/Problem_0588_DesignInMemoryFileSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class50/Problem_0588_DesignInMemoryFileSystem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +64,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_0588_DesignInMemoryFileSystem">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Code01_NCardsABWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class13.Code01_NCardsABWin" />
       <module name="Algorithm" />
@@ -77,6 +84,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ForOffer.Class19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.CloudStorageSystemI.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.OA.CloudStorageSystemI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeTop100.Class01.lengthOfLongestSubstring" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeTop100.Class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Problem_0588_DesignInMemoryFileSystem" />
         <item itemvalue="Application.Problem_0568_MaximumVacationDays" />
         <item itemvalue="Application.Code03_OneNumber" />
         <item itemvalue="Application.Code01_NCardsABWin" />
-        <item itemvalue="Application.lengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +168,8 @@
       <workItem from="1688411923826" duration="157461000" />
       <workItem from="1691095636033" duration="181330000" />
       <workItem from="1693948614272" duration="1837000" />
-      <workItem from="1694029244385" duration="5090000" />
+      <workItem from="1694029244385" duration="13750000" />
+      <workItem from="1694283204984" duration="8123000" />
     </task>
     <servers />
   </component>
