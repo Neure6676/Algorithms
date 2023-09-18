@@ -71,13 +71,13 @@ public class level4 {
         return ans.equals("") ? ans : ans.substring(0, ans.length() - 2);
     }
 
-    public String backUp(int ts) {
-
-    }
-
-    public String restore(int ts, int tsToRestore) {
-
-    }
+//    public String backUp(int ts) {
+//
+//    }
+//
+//    public String restore(int ts, int tsToRestore) {
+//
+//    }
 
 
 }

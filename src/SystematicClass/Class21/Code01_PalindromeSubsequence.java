@@ -64,12 +64,16 @@ public class Code01_PalindromeSubsequence {
                 int p1 = dp[L + 1][R - 1];
                 int p2 = dp[L][R - 1];
                 int p3 = dp[L + 1][R];
-                int p4 = str[L] != str[R] ? 0 : (2 + dp[L + 1][R - 1]);
+                int p4 = (str[L] != str[R] || dp[L + 1][R - 1] != R -L -1) ? 0 : (2 + dp[L + 1][R - 1]);
                 dp[L][R] = Math.max(Math.max(p1, p2), Math.max(p3, p4));
             }
         }
         return dp[0][N - 1];
     }
+
+
+
+
 
 
     // 继续优化
@@ -98,6 +102,11 @@ public class Code01_PalindromeSubsequence {
             }
         }
         return dp[0][N - 1];
+    }
+
+    public static void main(String[] args) {
+        String s = "acabdkaca";
+        System.out.println(longestPalindromeSubseq2(s));
     }
 
 }
