@@ -1,6 +1,4 @@
-package LeetCodeTop100.Class01;
-
-import java.util.HashMap;
+package LeetCode;
 
 public class lengthOfLongestSubstring {
 

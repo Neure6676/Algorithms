@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/ColorHouses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/MaxChocolates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/numDistinctIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemIII/level4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/OA/CloudStorageSystemIII/level4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class21/Code01_PalindromeSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class21/Code01_PalindromeSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/addTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/lengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.OA.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +105,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.OA.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +118,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.OA.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,6 +167,8 @@
       <workItem from="1694029244385" duration="13750000" />
       <workItem from="1694283204984" duration="22136000" />
       <workItem from="1695055339409" duration="7293000" />
+      <workItem from="1695068899510" duration="1909000" />
+      <workItem from="1695140724506" duration="2831000" />
     </task>
     <servers />
   </component>

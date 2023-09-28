@@ -1,4 +1,4 @@
-package LeetCodeTop100.Class01;
+package LeetCode;
 
 public class addTwoNumbers {
 
