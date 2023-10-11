@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/SpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/numDistinctIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class20/Code01_PreAndInArrayToPosArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class20/Code02_LargestComponentSizeByCommonFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class20/Code04_PalindromeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code02_TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/ChannelRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/OA/MinCommInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/lengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeTop100/Class01/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LeetCodeTop100/Class01/addTwoNumbers$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LeetCodeTop100/Class01/addTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LeetCodeTop100/Class01/lengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LeetCodeTop100/Class01/twoSum.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,20 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_PalindromeSubsequence">
+  <component name="RunManager" selected="Application.MinCommInt">
+    <configuration name="ChannelRating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.ChannelRating" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.OA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code01_PalindromeSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SystematicClass.Class21.Code01_PalindromeSubsequence" />
       <module name="Algorithm" />
@@ -74,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForOffer.OA.CloudStorageSystemIII.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.CloudStorageSystemIII.Main" />
+    <configuration name="Code01_PreAndInArrayToPosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class20.Code01_PreAndInArrayToPosArray" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.OA.CloudStorageSystemIII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncMaxDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.FuncMaxDiff" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="ForOffer.Class20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotTwins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.NotTwins" />
+    <configuration name="MinCommInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.MinCommInt" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="ForOffer.OA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCommInt" />
+        <item itemvalue="Application.ChannelRating" />
+        <item itemvalue="Application.Code01_PreAndInArrayToPosArray" />
         <item itemvalue="Application.Code01_PalindromeSubsequence" />
         <item itemvalue="Application.MaxChocolates" />
-        <item itemvalue="Application.ForOffer.OA.CloudStorageSystemIII.Main" />
-        <item itemvalue="Application.NotTwins" />
-        <item itemvalue="Application.FuncMaxDiff" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +175,8 @@
       <workItem from="1695055339409" duration="7293000" />
       <workItem from="1695068899510" duration="1909000" />
       <workItem from="1695140724506" duration="2831000" />
+      <workItem from="1695929482908" duration="6109000" />
+      <workItem from="1696736817509" duration="19356000" />
     </task>
     <servers />
   </component>
