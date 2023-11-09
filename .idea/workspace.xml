@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code03_TrappingRainWaterII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/OA/ChannelRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/OA/ChannelRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code02_TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code02_TrappingRainWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2K9EuLz7XwTkQw9HWbL2ARlRVJZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,22 +42,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhenyuanzhang/Desktop/Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/zhenyuanzhang/Desktop/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "athena"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SystematicClass.Class17" />
@@ -124,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChannelRating" />
         <item itemvalue="Application.MinCommInt" />
+        <item itemvalue="Application.MaxChocolates" />
         <item itemvalue="Application.Code01_PreAndInArrayToPosArray" />
         <item itemvalue="Application.Code01_PalindromeSubsequence" />
-        <item itemvalue="Application.MaxChocolates" />
+        <item itemvalue="Application.ChannelRating" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +181,16 @@
       <workItem from="1695140724506" duration="2831000" />
       <workItem from="1695929482908" duration="6109000" />
       <workItem from="1696736817509" duration="19422000" />
-      <workItem from="1697133893099" duration="9357000" />
+      <workItem from="1697133893099" duration="10082000" />
+      <workItem from="1697401617951" duration="2000" />
+      <workItem from="1697570044064" duration="146000" />
+      <workItem from="1697659510020" duration="59000" />
+      <workItem from="1697747622914" duration="1229000" />
+      <workItem from="1698441101766" duration="133000" />
+      <workItem from="1698441286458" duration="157000" />
+      <workItem from="1698441447732" duration="216000" />
+      <workItem from="1698441672790" duration="1513000" />
+      <workItem from="1698465564570" duration="9217000" />
     </task>
     <servers />
   </component>
