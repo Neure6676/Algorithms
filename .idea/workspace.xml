@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code03_TrappingRainWaterII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code05_TallestBillboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code02_TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code02_TrappingRainWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +187,7 @@
       <workItem from="1698441286458" duration="157000" />
       <workItem from="1698441447732" duration="216000" />
       <workItem from="1698441672790" duration="1513000" />
-      <workItem from="1698465564570" duration="9217000" />
+      <workItem from="1698465564570" duration="12459000" />
     </task>
     <servers />
   </component>
