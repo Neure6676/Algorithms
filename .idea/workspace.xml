@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code05_TallestBillboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code02_MaxABSBetweenLeftAndRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code03_LongestIntegratedLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class22/Code04_VisibleMountains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code02_TrappingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code02_TrappingRainWater.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,39 +71,39 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChannelRating">
-    <configuration name="ChannelRating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.ChannelRating" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.OA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_PalindromeSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SystematicClass.Class21.Code01_PalindromeSubsequence" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SystematicClass.Class21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code03_LongestIntegratedLength">
     <configuration name="Code01_PreAndInArrayToPosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class20.Code01_PreAndInArrayToPosArray" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ForOffer.Class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_MaxABSBetweenLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class23.Code02_MaxABSBetweenLeftAndRight" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_LongestIntegratedLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class23.Code03_LongestIntegratedLength" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_LongestIntegratedLength" />
+        <item itemvalue="Application.Code02_MaxABSBetweenLeftAndRight" />
         <item itemvalue="Application.MinCommInt" />
         <item itemvalue="Application.MaxChocolates" />
         <item itemvalue="Application.Code01_PreAndInArrayToPosArray" />
-        <item itemvalue="Application.Code01_PalindromeSubsequence" />
-        <item itemvalue="Application.ChannelRating" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +191,7 @@
       <workItem from="1698441286458" duration="157000" />
       <workItem from="1698441447732" duration="216000" />
       <workItem from="1698441672790" duration="1513000" />
-      <workItem from="1698465564570" duration="12459000" />
+      <workItem from="1698465564570" duration="19789000" />
     </task>
     <servers />
   </component>
