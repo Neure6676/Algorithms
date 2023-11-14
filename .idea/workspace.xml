@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code05_MinimumCostToMergeStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code03_NotContains4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class30/Code01_GetMinKth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class24/Code02_KthMinPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code02_KthMinPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/addTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/lengthOfLongestSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/numDistinctIslands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/twoSum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,20 +73,7 @@
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_LongestIntegratedLength">
-    <configuration name="Code01_PreAndInArrayToPosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class20.Code01_PreAndInArrayToPosArray" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code03_NotContains4">
     <configuration name="Code02_MaxABSBetweenLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class23.Code02_MaxABSBetweenLeftAndRight" />
       <module name="Algorithm" />
@@ -102,6 +93,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ForOffer.Class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_NotContains4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code03_NotContains4" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_NotContains4" />
         <item itemvalue="Application.Code03_LongestIntegratedLength" />
         <item itemvalue="Application.Code02_MaxABSBetweenLeftAndRight" />
         <item itemvalue="Application.MinCommInt" />
         <item itemvalue="Application.MaxChocolates" />
-        <item itemvalue="Application.Code01_PreAndInArrayToPosArray" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,7 @@
       <workItem from="1698441286458" duration="157000" />
       <workItem from="1698441447732" duration="216000" />
       <workItem from="1698441672790" duration="1513000" />
-      <workItem from="1698465564570" duration="27057000" />
+      <workItem from="1698465564570" duration="31984000" />
     </task>
     <servers />
   </component>
