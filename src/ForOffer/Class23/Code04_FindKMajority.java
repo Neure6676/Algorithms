@@ -109,11 +109,7 @@ public class Code04_FindKMajority {
         for (int i = 0; i != arr.length; i++) {
             int curNum = arr[i];
             if (cands.containsKey(curNum)) {
-                if (reals.containsKey(curNum)) {
-                    reals.put(curNum, reals.get(curNum) + 1);
-                } else {
-                    reals.put(curNum, 1);
-                }
+                reals.put(curNum, reals.getOrDefault(curNum, 0) + 1);
             }
         }
         return reals;

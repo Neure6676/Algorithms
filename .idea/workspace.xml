@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code02_MaxABSBetweenLeftAndRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code03_LongestIntegratedLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code05_MinimumCostToMergeStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code01_MaximumSumOf3NonOverlappingSubarrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code02_TrappingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class22/Code02_TrappingRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class23/Code04_FindKMajority.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,7 @@
       <workItem from="1698441286458" duration="157000" />
       <workItem from="1698441447732" duration="216000" />
       <workItem from="1698441672790" duration="1513000" />
-      <workItem from="1698465564570" duration="19789000" />
+      <workItem from="1698465564570" duration="27057000" />
     </task>
     <servers />
   </component>
