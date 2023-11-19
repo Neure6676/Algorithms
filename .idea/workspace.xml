@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code03_NotContains4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystematicClass/Class30/Code01_GetMinKth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code04_Painting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code05_MinWindowLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code06_RemoveDuplicateLettersLessLexi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class23/Code01_LCATarjanAndTreeChainPartition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class24/Code02_KthMinPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code02_KthMinPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/addTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/lengthOfLongestSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/numDistinctIslands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/twoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code01_Split4Parts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code01_Split4Parts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code03_NotContains4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code03_NotContains4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,35 +43,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/zhenyuanzhang/Desktop/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhenyuanzhang/Desktop/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "athena"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;athena&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SystematicClass.Class17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_NotContains4">
+  <component name="RunManager" selected="Application.Code04_Painting">
+    <configuration name="Code01_Split4Parts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code01_Split4Parts" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForOffer.Class24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code02_MaxABSBetweenLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForOffer.Class23.Code02_MaxABSBetweenLeftAndRight" />
       <module name="Algorithm" />
@@ -113,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.MaxChocolates" />
+    <configuration name="Code04_Painting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code04_Painting" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinCommInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.OA.MinCommInt" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.OA.*" />
+          <option name="PATTERN" value="ForOffer.Class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_Painting" />
+        <item itemvalue="Application.Code01_Split4Parts" />
         <item itemvalue="Application.Code03_NotContains4" />
         <item itemvalue="Application.Code03_LongestIntegratedLength" />
         <item itemvalue="Application.Code02_MaxABSBetweenLeftAndRight" />
-        <item itemvalue="Application.MinCommInt" />
-        <item itemvalue="Application.MaxChocolates" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +191,10 @@
       <workItem from="1698441286458" duration="157000" />
       <workItem from="1698441447732" duration="216000" />
       <workItem from="1698441672790" duration="1513000" />
-      <workItem from="1698465564570" duration="31984000" />
+      <workItem from="1698465564570" duration="32403000" />
+      <workItem from="1700246496725" duration="43000" />
+      <workItem from="1700263946202" duration="3000" />
+      <workItem from="1700266190210" duration="6807000" />
     </task>
     <servers />
   </component>
