@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code04_Painting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code05_MinWindowLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code06_RemoveDuplicateLettersLessLexi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class25/Code01_IPToCIDR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class25/Code02_3Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code01_Split4Parts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code01_Split4Parts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code03_NotContains4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ForOffer/Class24/Code03_NotContains4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForOffer/Class24/Code01_Split4Parts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +190,8 @@
       <workItem from="1698465564570" duration="32403000" />
       <workItem from="1700246496725" duration="43000" />
       <workItem from="1700263946202" duration="3000" />
-      <workItem from="1700266190210" duration="6807000" />
+      <workItem from="1700266190210" duration="9523000" />
+      <workItem from="1700517223282" duration="5631000" />
     </task>
     <servers />
   </component>
