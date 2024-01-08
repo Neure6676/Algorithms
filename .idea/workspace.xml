@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code01_FindNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code02_FindLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code03_FindRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code04_FindPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code02_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code03_MergeTwoLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal$Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal$Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/PassByRefOrVal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code01_PassByRefOrVal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/ReverseList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +78,13 @@
       <recent name="$PROJECT_DIR$/src/UltimateAlgo2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PassByRefOrVal">
-    <configuration name="Code01_Split4Parts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code01_Split4Parts" />
+  <component name="RunManager" selected="Application.Code03_FindRight">
+    <configuration name="Code01_FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code01_FindNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class24.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,38 +92,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_NotContains4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code03_NotContains4" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code04_Painting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class24.Code04_Painting" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForOffer.Class24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassByRefOrVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.LinkedList.PassByRefOrVal" />
+    <configuration name="Code01_PassByRefOrVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.LinkedList.Code01_PassByRefOrVal" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="UltimateAlgo2024.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_FindLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code02_FindLeft" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_FindRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code03_FindRight" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PassByRefOrVal" />
+        <item itemvalue="Application.Code03_FindRight" />
+        <item itemvalue="Application.Code01_FindNumber" />
+        <item itemvalue="Application.Code02_FindLeft" />
+        <item itemvalue="Application.Code01_PassByRefOrVal" />
         <item itemvalue="Application.SimpleSorts" />
-        <item itemvalue="Application.Code04_Painting" />
-        <item itemvalue="Application.Code01_Split4Parts" />
-        <item itemvalue="Application.Code03_NotContains4" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +206,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="5067000" />
+      <workItem from="1704560369790" duration="14746000" />
     </task>
     <servers />
   </component>

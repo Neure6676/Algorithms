@@ -1,6 +1,6 @@
 package UltimateAlgo2024.LinkedList;
 
-public class PassByRefOrVal {
+public class Code01_PassByRefOrVal {
 
     public static void main(String[] args) {
         // int、long、byte、short
