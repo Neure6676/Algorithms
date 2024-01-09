@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code01_FindNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code02_FindLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code03_FindRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/Code04_FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code02_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code03_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code04_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code05_PartitionList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal$Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal$Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/PassByRefOrVal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code01_PassByRefOrVal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/ReverseList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +198,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="14746000" />
+      <workItem from="1704560369790" duration="20037000" />
     </task>
     <servers />
   </component>
