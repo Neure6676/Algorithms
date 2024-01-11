@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code01_FillFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code02_SpecifyAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code03_StaticSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code04_ReadByLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code01_SmallSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code02_countRangeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code02_MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/BinarySearch/Code02_FindLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/BinarySearch/Code02_FindLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal$Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/PassByRefOrVal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/ReverseList$DoubleListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/ReverseList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class6/CountOfRangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class6/CountOfRangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/SimpleSorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code01_SimpleSorts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +79,7 @@
       <recent name="$PROJECT_DIR$/src/UltimateAlgo2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code2_BinaryTreeTraversalIteration">
+  <component name="RunManager" selected="Application.Code02_MergeSort">
     <configuration name="Code01_FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code01_FindNumber" />
       <module name="Algorithm" />
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_PassByRefOrVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.LinkedList.Code01_PassByRefOrVal" />
+    <configuration name="Code02_FindLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code02_FindLeft" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.LinkedList.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_FindLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code02_FindLeft" />
+    <configuration name="Code02_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Sort.Code02_MergeSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_MergeSort" />
         <item itemvalue="Application.Code2_BinaryTreeTraversalIteration" />
         <item itemvalue="Application.Code03_FindRight" />
         <item itemvalue="Application.Code01_FindNumber" />
         <item itemvalue="Application.Code02_FindLeft" />
-        <item itemvalue="Application.Code01_PassByRefOrVal" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +207,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="37322000" />
+      <workItem from="1704560369790" duration="49165000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 package UltimateAlgo2024.Sort;
 
-public class SimpleSorts {
+public class Code01_SimpleSorts {
 
     public static void selectionSort(int[] arr) {
         if (arr == null || arr.length < 2) {

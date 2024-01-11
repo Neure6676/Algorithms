@@ -14,6 +14,7 @@ public class Code2_BinaryTreeTraversalIteration {
         }
     }
 
+    // https://leetcode.com/problems/binary-tree-preorder-traversal/
     public static void preOrder(Node head) {
         if (head == null) {
             return;
@@ -32,6 +33,7 @@ public class Code2_BinaryTreeTraversalIteration {
         }
     }
 
+    // https://leetcode.com/problems/binary-tree-inorder-traversal/
     // 1.子树左边界全部进栈
     // 2.弹出节点打印，它的右树重复1
     // 3.直到没子树且栈空
@@ -57,6 +59,7 @@ public class Code2_BinaryTreeTraversalIteration {
         }
     }
 
+    // https://leetcode.com/problems/binary-tree-postorder-traversal/
     public static void postOrder(Node head) {
         if (head == null) {
             return;
@@ -79,6 +82,7 @@ public class Code2_BinaryTreeTraversalIteration {
         }
     }
 
+    // https://leetcode.com/problems/binary-tree-postorder-traversal/
     public static void postOrderOneStack(Node head) {
         if (head == null) {
             return;

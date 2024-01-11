@@ -52,6 +52,7 @@ public class CountOfRangeSum {
             ans += windowR - windowL;
         }
         long[] help = new long[R - L + 1];
+
         int i = 0;
         int p1 = L;
         int p2 = M + 1;
