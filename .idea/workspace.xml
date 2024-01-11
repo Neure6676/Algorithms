@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code01_FillFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code02_SpecifyAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code03_StaticSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/ACMInputOutput/Code04_ReadByLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code01_SmallSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code02_countRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code02_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code03_ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code03_QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SystematicClass/Class6/CountOfRangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystematicClass/Class6/CountOfRangeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/SimpleSorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code01_SimpleSorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +198,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="49165000" />
+      <workItem from="1704560369790" duration="54492000" />
     </task>
     <servers />
   </component>
