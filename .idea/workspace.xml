@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DivideAndConquer/Code03_ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code03_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/RandomSelection/Code01_RandomizedSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SetAndMap/Code01_HashSetAndHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SetAndMap/Code02_TreeSetAndTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SetAndMap/Code03_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Sort/Code05_HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/CountOfRangeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/SystematicClass/Class6/CountOfRangeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Sort/Code02_MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Sort/Code02_MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Sort/SimpleSorts.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,26 +76,13 @@
       <recent name="$PROJECT_DIR$/src/UltimateAlgo2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_MergeSort">
-    <configuration name="Code01_FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code01_FindNumber" />
+  <component name="RunManager" selected="Application.Code03_Comparator">
+    <configuration name="Code01_HashSetAndHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SetAndMap.Code01_HashSetAndHashMap" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code02_FindLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.Code02_FindLeft" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.SetAndMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +96,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="UltimateAlgo2024.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SetAndMap.Code03_Comparator" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.SetAndMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_Comparator" />
+        <item itemvalue="Application.Code01_HashSetAndHashMap" />
         <item itemvalue="Application.Code02_MergeSort" />
         <item itemvalue="Application.Code2_BinaryTreeTraversalIteration" />
         <item itemvalue="Application.Code03_FindRight" />
-        <item itemvalue="Application.Code01_FindNumber" />
-        <item itemvalue="Application.Code02_FindLeft" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +204,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="54492000" />
+      <workItem from="1704560369790" duration="64760000" />
     </task>
     <servers />
   </component>
