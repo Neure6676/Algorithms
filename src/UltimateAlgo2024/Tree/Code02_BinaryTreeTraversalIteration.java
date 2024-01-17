@@ -2,7 +2,7 @@ package UltimateAlgo2024.Tree;
 
 import java.util.Stack;
 
-public class Code2_BinaryTreeTraversalIteration {
+public class Code02_BinaryTreeTraversalIteration {
 
     public static class Node {
         private int val;

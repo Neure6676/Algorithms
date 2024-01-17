@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code01_SetAllHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code02_LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code03_InsertDeleteRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code04_InsertDeleteRandomDuplicatesAllowed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code05_MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code06_MaximumFrequencyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code07_AllO1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code07_ReverseNodesInkGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code07_ReverseNodesInkGroup.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +198,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="127554000" />
+      <workItem from="1704560369790" duration="131933000" />
     </task>
     <servers />
   </component>
