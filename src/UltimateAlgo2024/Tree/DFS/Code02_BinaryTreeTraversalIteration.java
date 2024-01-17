@@ -1,4 +1,4 @@
-package UltimateAlgo2024.Tree;
+package UltimateAlgo2024.Tree.DFS;
 
 import java.util.Stack;
 

@@ -2,7 +2,6 @@ package UltimateAlgo2024.DataStructureDesign;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Stack;
 
 // https://leetcode.com/problems/maximum-frequency-stack/
 // 词频表+最大频率

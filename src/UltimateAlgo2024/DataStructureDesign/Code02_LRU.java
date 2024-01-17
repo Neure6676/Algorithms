@@ -1,8 +1,6 @@
 package UltimateAlgo2024.DataStructureDesign;
 
 import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Queue;
 
 // https://leetcode.com/problems/lru-cache/
 // HashMap + DoublyLinkedList

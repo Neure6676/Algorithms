@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code06_MaximumFrequencyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code07_AllO1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code01_LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code02_ZigzagLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code03_WidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code04_DepthOfBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code02_LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code02_LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code06_MaximumFrequencyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DataStructureDesign/Code06_MaximumFrequencyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code01_BinaryTreeTraversalRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/DFS/Code01_BinaryTreeTraversalRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Code02_BinaryTreeTraversalIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/DFS/Code02_BinaryTreeTraversalIteration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +204,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="131933000" />
+      <workItem from="1704560369790" duration="141852000" />
     </task>
     <servers />
   </component>
