@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Completeness/Code01_CompletenessOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Completeness/Code02_CountCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Serialization/Code02_LevelorderSerializeAndDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Serialization/Code03_PreorderInorderBuildBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code02_LowestCommonAncestorBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code03_PathSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code04_BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code05_ValidateBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code06_TrimBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code07_HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code01_PathSumI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code02_PathSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache$MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache$MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU$LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code02_LRU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code03_InsertDeleteRandom$RandomizedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code03_InsertDeleteRandom$RandomizedSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code03_InsertDeleteRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DataStructureDesign/Code03_InsertDeleteRandom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_BinaryTreeTraversalRecursion$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_BinaryTreeTraversalRecursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code2_BinaryTreeTraversalIteration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code02_ZigzagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code02_ZigzagLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/BFS/Code05_PreorderSerializeAndDeserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Serialization/Code01_PreorderSerializeAndDeserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Serialization/Code02_LevelorderSerializeAndDeserialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Serialization/Code02_LevelorderSerializeAndDeserialize.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +78,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/UltimateAlgo2024" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="UltimateAlgo2024.Tree.Others" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_LevelorderSerializeAndDeserialize">
+  <component name="RunManager" selected="Application.Code02_PathSumII">
     <configuration name="Code01_Bitset$Bitset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BitwiseOperations.Bitmap.Code01_Bitset$Bitset" />
       <module name="Algorithm" />
@@ -104,6 +102,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="UltimateAlgo2024.Tree.Serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_PathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Tree.PathSum.Code02_PathSumII" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.Tree.PathSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code10_ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BitwiseOperations.Code10_ReverseBits" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.BitwiseOperations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_PathSumII" />
         <item itemvalue="Application.Code02_LevelorderSerializeAndDeserialize" />
         <item itemvalue="Application.Code03_InsertDeleteRandom" />
         <item itemvalue="Application.Code07_ReverseNodesInkGroup" />
         <item itemvalue="Application.Code01_Bitset$Bitset" />
-        <item itemvalue="Application.Code10_ReverseBits" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +210,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="153901000" />
+      <workItem from="1704560369790" duration="164428000" />
     </task>
     <servers />
   </component>
