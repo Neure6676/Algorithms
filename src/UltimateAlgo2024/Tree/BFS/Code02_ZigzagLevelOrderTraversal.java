@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-// https://github.com/algorithmzuo/algorithm-journey/blob/main/src/class036/Code02_ZigzagLevelOrderTraversal.java
+// https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 public class Code02_ZigzagLevelOrderTraversal {
 
     public class TreeNode {
