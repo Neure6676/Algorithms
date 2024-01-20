@@ -1,7 +1,5 @@
 package UltimateAlgo2024.Tree.Others;
 
-import UltimateAlgo2024.Tree.Completeness.Code02_CountCompleteTreeNodes;
-
 // https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 public class Code01_LowestCommonAncestor {
 

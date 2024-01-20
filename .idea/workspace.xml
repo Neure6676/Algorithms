@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code02_LowestCommonAncestorBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code03_PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code04_BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code05_ValidateBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code06_TrimBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code07_HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code01_PathSumI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code02_PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code01_BasicCalculatorIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code02_DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code01_ReverseStackWithRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code02_SortStackWithRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code03_TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code01_Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code02_Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code03_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code04_PermutationWithoutRepetition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Serialization/Code02_LevelorderSerializeAndDeserialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Serialization/Code02_LevelorderSerializeAndDeserialize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_LowestCommonAncestor$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_LowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code02_LowestCommonAncestorBinarySearch$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code02_LowestCommonAncestorBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +87,26 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_PathSumII">
-    <configuration name="Code01_Bitset$Bitset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BitwiseOperations.Bitmap.Code01_Bitset$Bitset" />
+  <component name="RunManager" selected="Application.Code03_TowerOfHanoi">
+    <configuration name="Code01_ReverseStackWithRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.Others.Code01_ReverseStackWithRecursive" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.BitwiseOperations.Bitmap.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.Recursion.PermutationAndCombination.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.PermutationAndCombination.Code01_Subsequences" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.Recursion.PermutationAndCombination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,25 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_InsertDeleteRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DataStructureDesign.Code03_InsertDeleteRandom" />
+    <configuration name="Code03_TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.Others.Code03_TowerOfHanoi" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.DataStructureDesign.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code07_ReverseNodesInkGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.LinkedList.Code07_ReverseNodesInkGroup" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.LinkedList.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.Recursion.PermutationAndCombination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_TowerOfHanoi" />
+        <item itemvalue="Application.Code01_ReverseStackWithRecursive" />
+        <item itemvalue="Application.Code01_Subsequences" />
         <item itemvalue="Application.Code02_PathSumII" />
         <item itemvalue="Application.Code02_LevelorderSerializeAndDeserialize" />
-        <item itemvalue="Application.Code03_InsertDeleteRandom" />
-        <item itemvalue="Application.Code07_ReverseNodesInkGroup" />
-        <item itemvalue="Application.Code01_Bitset$Bitset" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +215,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="164428000" />
+      <workItem from="1704560369790" duration="180240000" />
     </task>
     <servers />
   </component>
