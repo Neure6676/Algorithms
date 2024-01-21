@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code01_BasicCalculatorIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code02_DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code01_ReverseStackWithRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code02_SortStackWithRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/Others/Code03_TowerOfHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code01_Subsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code02_Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code03_Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/PermutationAndCombination/Code04_PermutationWithoutRepetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BitwiseOperations/NQueen/Code01_NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_LowestCommonAncestor$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code01_LowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code02_LowestCommonAncestorBinarySearch$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Tree/Code02_LowestCommonAncestorBinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Others/Code01_LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/PathSum/Code03_BinaryTreePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code01_Subsequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code02_Combinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code03_Permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code04_PermutationWithoutRepetition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code05_ReverseStackWithRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code06_SortStackWithRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/Code07_TowerOfHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code02_DecodeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code02_DecodeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_TowerOfHanoi">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Code01_ReverseStackWithRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.Others.Code01_ReverseStackWithRecursive" />
       <module name="Algorithm" />
@@ -114,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_LevelorderSerializeAndDeserialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Tree.Serialization.Code02_LevelorderSerializeAndDeserialize" />
+    <configuration name="Code02_DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.NestProblems.Code02_DecodeString" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Tree.Serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code02_PathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Tree.PathSum.Code02_PathSumII" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Tree.PathSum.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.Recursion.NestProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +134,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.NestProblems.test" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.Recursion.NestProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Code02_DecodeString" />
         <item itemvalue="Application.Code03_TowerOfHanoi" />
         <item itemvalue="Application.Code01_ReverseStackWithRecursive" />
         <item itemvalue="Application.Code01_Subsequences" />
-        <item itemvalue="Application.Code02_PathSumII" />
-        <item itemvalue="Application.Code02_LevelorderSerializeAndDeserialize" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +209,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="180240000" />
+      <workItem from="1704560369790" duration="187495000" />
     </task>
     <servers />
   </component>

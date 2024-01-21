@@ -35,4 +35,18 @@ public class Code02_DecodeString {
         }
         return sb.toString();
     }
+
+
+    public static void main(String[] args) {
+        switch (1) {
+            case 2:
+                System.out.println("Black");
+            case 1:
+                System.out.println("White");
+            case 0:
+                System.out.println("White");
+                // default:
+                // ans.add("Ambiguous");
+        }
+    }
 }
