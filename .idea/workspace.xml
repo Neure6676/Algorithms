@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MathematicProblems/Code01_GcdAndLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MathematicProblems/Code02_NthMagicalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MathematicProblems/Code03_SameMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PalindromeProblems/Code01_SuperPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PalindromeProblems/Code02_IsPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/NestProblems/Code03_NumberOfAtoms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/Recursion/NestProblems/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MathematicProblems/Code03_SameMod.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +203,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="192071000" />
+      <workItem from="1704560369790" duration="196750000" />
     </task>
     <servers />
   </component>
