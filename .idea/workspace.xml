@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Trie/Code01_TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Trie/Code02_TwoNumbersMaximumXor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code01_PrefixSumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code02_LongestSubarraySumEqualsAim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code03_NumberOfSubarraySumEqualsAim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code04_PositivesEqualsNegtivesLongestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code05_LongestWellPerformingInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code06_MakeSumDivisibleByP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/PrefixSum/Code07_EvenCountsLongestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Tree/Trie/Code03_WordSearchII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/LinkedList/Code08_CopyListWithRandomPointer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,26 +81,13 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_GcdAndLcm">
+  <component name="RunManager" selected="Application.Code04_PositivesEqualsNegtivesLongestSubarray">
     <configuration name="Code01_GcdAndLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.MathematicProblems.Code01_GcdAndLcm" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="UltimateAlgo2024.MathematicProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_ReverseStackWithRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.Others.Code01_ReverseStackWithRecursive" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Recursion.PermutationAndCombination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code04_PositivesEqualsNegtivesLongestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.PrefixSum.Code04_PositivesEqualsNegtivesLongestSubarray" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.PrefixSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.NestProblems.test" />
       <module name="Algorithm" />
@@ -141,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_PositivesEqualsNegtivesLongestSubarray" />
         <item itemvalue="Application.Code01_GcdAndLcm" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Code02_DecodeString" />
         <item itemvalue="Application.Code03_TowerOfHanoi" />
-        <item itemvalue="Application.Code01_ReverseStackWithRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +209,7 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="205765000" />
+      <workItem from="1704560369790" duration="218949000" />
     </task>
     <servers />
   </component>
