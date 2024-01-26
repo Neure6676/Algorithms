@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/OneD/Code01_CorporateFlightBookings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/OneD/Code02_ArithmeticSequenceDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/OneD/Code03_WaterHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/TwoD/Code01_PrefixSumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/TwoD/Code02_LargestOneBorderedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/TwoD/Code03_DiffMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/TwoD/Code04_StampingTheGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Difference/TwoD/Code05_StrongestForceField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/OneD/Code01_FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code01_MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code02_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/PrefixSum/Code04_PositivesEqualsNegtivesLongestSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/PrefixSum/Code04_PositivesEqualsNegtivesLongestSubarray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,20 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04_PositivesEqualsNegtivesLongestSubarray">
+  <component name="RunManager" selected="Application.Code03_MinimumWindowSubstring">
+    <configuration name="Code01_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.OneD.Code01_FibonacciNumber" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.OneD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code01_GcdAndLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.MathematicProblems.Code01_GcdAndLcm" />
       <module name="Algorithm" />
@@ -93,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.NestProblems.Code02_DecodeString" />
+    <configuration name="Code03_MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SlidingWindow.Code03_MinimumWindowSubstring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Recursion.NestProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code03_TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.Others.Code03_TowerOfHanoi" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Recursion.PermutationAndCombination.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_MinimumWindowSubstring" />
+        <item itemvalue="Application.Code01_FibonacciNumber" />
         <item itemvalue="Application.Code04_PositivesEqualsNegtivesLongestSubarray" />
         <item itemvalue="Application.Code01_GcdAndLcm" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Code02_DecodeString" />
-        <item itemvalue="Application.Code03_TowerOfHanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +204,8 @@
       <workItem from="1701721710000" duration="598000" />
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
-      <workItem from="1704560369790" duration="230002000" />
+      <workItem from="1704560369790" duration="234302000" />
+      <workItem from="1706222858442" duration="2935000" />
     </task>
     <servers />
   </component>
