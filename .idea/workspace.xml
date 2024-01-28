@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/OneD/Code01_FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code01_MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code02_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code05_MaximumRunningTimeOfNComputers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code06_WaitingTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code07_CutOrPoison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/PrefixSum/Code04_PositivesEqualsNegtivesLongestSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/PrefixSum/Code04_PositivesEqualsNegtivesLongestSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_MinimumWindowSubstring">
+  <component name="RunManager" selected="Application.Code06_WaitingTime">
     <configuration name="Code01_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.OneD.Code01_FibonacciNumber" />
       <module name="Algorithm" />
@@ -129,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Recursion.NestProblems.test" />
+    <configuration name="Code06_WaitingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.BSProblems.Code06_WaitingTime" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.Recursion.NestProblems.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.BinarySearch.BSProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code06_WaitingTime" />
         <item itemvalue="Application.Code03_MinimumWindowSubstring" />
         <item itemvalue="Application.Code01_FibonacciNumber" />
         <item itemvalue="Application.Code04_PositivesEqualsNegtivesLongestSubarray" />
         <item itemvalue="Application.Code01_GcdAndLcm" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +204,7 @@
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
       <workItem from="1704560369790" duration="234302000" />
-      <workItem from="1706222858442" duration="2935000" />
+      <workItem from="1706222858442" duration="23632000" />
     </task>
     <servers />
   </component>
