@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code05_MaximumRunningTimeOfNComputers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code06_WaitingTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/BinarySearch/BSProblems/Code07_CutOrPoison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/SlidingWindow/Code03_MinimumWindowSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/Graph/Part1/Code01_CreateGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part1/Code01_SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part1/Code01_SlidingWindowMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part1/Code02_LongestSubarrayAbsoluteLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part1/Code02_LongestSubarrayAbsoluteLimit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code01_ShortestSubarrayWithSumAtLeastK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code01_ShortestSubarrayWithSumAtLeastK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code02_MaxValueOfEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code02_MaxValueOfEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code03_MaximumNumberOfTasksYouCanAssign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/MonotoneQueue/Part2/Code03_MaximumNumberOfTasksYouCanAssign.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +76,13 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code06_WaitingTime">
-    <configuration name="Code01_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.OneD.Code01_FibonacciNumber" />
+  <component name="RunManager" selected="Application.Code01_CreateGraph">
+    <configuration name="Code01_CreateGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Graph.Part1.Code01_CreateGraph" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.OneD.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.Graph.Part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_GcdAndLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.MathematicProblems.Code01_GcdAndLcm" />
+    <configuration name="Code01_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.OneD.Code01_FibonacciNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.MathematicProblems.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.OneD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_CreateGraph" />
         <item itemvalue="Application.Code06_WaitingTime" />
         <item itemvalue="Application.Code03_MinimumWindowSubstring" />
         <item itemvalue="Application.Code01_FibonacciNumber" />
         <item itemvalue="Application.Code04_PositivesEqualsNegtivesLongestSubarray" />
-        <item itemvalue="Application.Code01_GcdAndLcm" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,7 @@
       <workItem from="1704558332717" duration="1559000" />
       <workItem from="1704560306950" duration="56000" />
       <workItem from="1704560369790" duration="234302000" />
-      <workItem from="1706222858442" duration="23632000" />
+      <workItem from="1706222858442" duration="44306000" />
     </task>
     <servers />
   </component>
