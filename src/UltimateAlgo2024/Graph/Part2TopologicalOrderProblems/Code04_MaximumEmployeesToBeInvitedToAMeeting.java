@@ -1,4 +1,4 @@
-package UltimateAlgo2024.Graph.Part2;
+package UltimateAlgo2024.Graph.Part2TopologicalOrderProblems;
 
 // https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
 // 1.小环 ==2 找两边各自能延伸的长度

@@ -1,4 +1,4 @@
-package UltimateAlgo2024.Graph.Part1;
+package UltimateAlgo2024.Graph.Part1TopologicalOrder;
 
 import java.util.ArrayList;
 
