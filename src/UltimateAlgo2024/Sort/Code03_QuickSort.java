@@ -9,37 +9,6 @@ public class Code03_QuickSort {
         return nums;
     }
 
-    public static void quickSort(int[] arr, int l, int r) {
-        if (l >= r) {
-            return;
-        }
-        int x = arr[l + (int) (Math.random() * (r - l + 1))];
-        // return the idx of x, should be in somewhere of middle
-        int mid = partition(arr, l, r, x);
-        quickSort(arr, l, mid - 1);
-        quickSort(arr, mid + 1, r);
-    }
-
-    // put <=x on the left, >x on the right
-    public static int partition(int[] arr, int l, int r, int x) {
-        // a : arr[l....a-1]范围是<=x的区域
-        // xi : 记录在<=x的区域上任何一个x的位置，哪一个都可以
-        int a = l, xi = 0;
-        // arr[i] <= x: swap a and i, i++, a++
-        // arr[i] > x: swap a and i, i++
-        for (int i = l; i <= r; i++) {
-            if (arr[i] <= x) {
-                swap(arr, i, a);
-                if (arr[a] == x) {
-                    xi = a;
-                }
-                a++;
-            }
-        }
-        swap(arr, xi, a - 1);
-        return a - 1;
-    }
-
     public static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
@@ -77,5 +46,41 @@ public class Code03_QuickSort {
                 swap(arr, last--, i);  // i unchanged
             }
         }
+    }
+
+
+
+
+
+
+    public static void quickSort(int[] arr, int l, int r) {
+        if (l >= r) {
+            return;
+        }
+        int x = arr[l + (int) (Math.random() * (r - l + 1))];
+        // return the idx of x, should be in somewhere of middle
+        int mid = partition(arr, l, r, x);
+        quickSort(arr, l, mid - 1);
+        quickSort(arr, mid + 1, r);
+    }
+
+    // put <=x on the left, >x on the right
+    public static int partition(int[] arr, int l, int r, int x) {
+        // a : arr[l....a-1]范围是<=x的区域
+        // xi : 记录在<=x的区域上任何一个x的位置，哪一个都可以
+        int a = l, xi = 0;
+        // arr[i] <= x: swap a and i, i++, a++
+        // arr[i] > x: swap a and i, i++
+        for (int i = l; i <= r; i++) {
+            if (arr[i] <= x) {
+                swap(arr, i, a);
+                if (arr[a] == x) {
+                    xi = a;
+                }
+                a++;
+            }
+        }
+        swap(arr, xi, a - 1);
+        return a - 1;
     }
 }
