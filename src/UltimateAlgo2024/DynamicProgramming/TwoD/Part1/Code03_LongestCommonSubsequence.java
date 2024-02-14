@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.TwoD;
+package UltimateAlgo2024.DynamicProgramming.TwoD.Part1;
 
 // https://leetcode.com/problems/longest-common-subsequence/
 public class Code03_LongestCommonSubsequence {

@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.TwoD;
+package UltimateAlgo2024.DynamicProgramming.TwoD.Part1;
 
 // https://leetcode.com/problems/minimum-path-sum/
 public class Code01_MinimumPathSum {

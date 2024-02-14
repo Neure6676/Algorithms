@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.TwoD;
+package UltimateAlgo2024.DynamicProgramming.TwoD.Part1;
 
 // https://leetcode.com/problems/word-search/
 public class Code02_WordSearch {
