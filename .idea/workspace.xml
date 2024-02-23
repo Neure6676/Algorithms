@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code04_HouseRobberII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +202,7 @@
       <workItem from="1704560369790" duration="234302000" />
       <workItem from="1706222858442" duration="111068000" />
       <workItem from="1708132171516" duration="1201000" />
+      <workItem from="1708391175956" duration="4626000" />
     </task>
     <servers />
   </component>
