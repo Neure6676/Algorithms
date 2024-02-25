@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code04_HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code05_HouseRobberIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code06_MaximumSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part2/Code01_MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part2/Code04_MaximumSum3UnoverlappingSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part3/Code01_LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part3/Code02_RussianDollEnvelopes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code01_MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code01_MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code02_HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code02_HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code03_MaximumSumCircularSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code03_MaximumSumCircularSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code04_HouseRobberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code04_HouseRobberII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +80,7 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_CreateGraph">
+  <component name="RunManager" selected="Application.Code02_RussianDollEnvelopes">
     <configuration name="Code01_CreateGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Graph.Part1TopologicalOrder.Code01_CreateGraph" />
       <module name="Algorithm" />
@@ -98,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SlidingWindow.Code03_MinimumWindowSubstring" />
+    <configuration name="Code02_RussianDollEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.Code02_RussianDollEnvelopes" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.SlidingWindow.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_PositivesEqualsNegtivesLongestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.PrefixSum.Code04_PositivesEqualsNegtivesLongestSubarray" />
+    <configuration name="Code03_MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SlidingWindow.Code03_MinimumWindowSubstring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.PrefixSum.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_RussianDollEnvelopes" />
         <item itemvalue="Application.Code01_CreateGraph" />
         <item itemvalue="Application.Code06_WaitingTime" />
         <item itemvalue="Application.Code03_MinimumWindowSubstring" />
         <item itemvalue="Application.Code01_FibonacciNumber" />
-        <item itemvalue="Application.Code04_PositivesEqualsNegtivesLongestSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +212,7 @@
       <workItem from="1706222858442" duration="111068000" />
       <workItem from="1708132171516" duration="1201000" />
       <workItem from="1708391175956" duration="4626000" />
+      <workItem from="1708642926960" duration="6228000" />
     </task>
     <servers />
   </component>

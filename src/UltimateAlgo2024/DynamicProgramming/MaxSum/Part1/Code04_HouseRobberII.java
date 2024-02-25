@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.MaxSum;
+package UltimateAlgo2024.DynamicProgramming.MaxSum.Part1;
 
 // https://leetcode.com/problems/house-robber-ii/
 public class Code04_HouseRobberII {

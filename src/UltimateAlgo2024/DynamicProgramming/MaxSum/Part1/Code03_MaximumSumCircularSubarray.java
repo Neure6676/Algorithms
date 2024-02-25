@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.MaxSum;
+package UltimateAlgo2024.DynamicProgramming.MaxSum.Part1;
 
 // https://leetcode.com/problems/maximum-sum-circular-subarray/
 public class Code03_MaximumSumCircularSubarray {
