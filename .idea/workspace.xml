@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code05_HouseRobberIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code06_MaximumSubmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part2/Code01_MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part2/Code04_MaximumSum3UnoverlappingSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part3/Code01_LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part3/Code02_RussianDollEnvelopes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code01_MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code01_MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code02_HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code02_HouseRobber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code03_MaximumSumCircularSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code03_MaximumSumCircularSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Code04_HouseRobberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/MaxSum/Part1/Code04_HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code03_TargetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +203,7 @@
       <workItem from="1706222858442" duration="111068000" />
       <workItem from="1708132171516" duration="1201000" />
       <workItem from="1708391175956" duration="4626000" />
-      <workItem from="1708642926960" duration="6228000" />
+      <workItem from="1708642926960" duration="13350000" />
     </task>
     <servers />
   </component>
