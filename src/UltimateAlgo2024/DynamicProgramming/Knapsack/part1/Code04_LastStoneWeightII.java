@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.Knapsack;
+package UltimateAlgo2024.DynamicProgramming.Knapsack.part1;
 
 // https://leetcode.com/problems/last-stone-weight-ii/
 public class Code04_LastStoneWeightII {

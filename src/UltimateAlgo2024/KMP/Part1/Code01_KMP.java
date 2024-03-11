@@ -32,21 +32,19 @@ public class Code01_KMP {
     }
 
     public static int KMP(char[] s1, char[] s2) {
-        // s1中当前比对的位置是x
-        // s2中当前比对的位置是y
-        int n = s1.length, m = s2.length, x = 0, y = 0;
+        int n = s1.length, m = s2.length, i = 0, j = 0;
         int[] next = nextArray(s2, m);
-        while (x < n && y < m) {
-            if (s1[x] == s2[y]) {
-                x++;
-                y++;
-            } else if (y == 0) {
-                x++;
+        while (i < n && j < m) {
+            if (s1[i] == s2[j]) {
+                i++;
+                j++;
+            } else if (j == 0) {
+                i++;
             } else {
-                y = next[y];
+                j = next[j];
             }
         }
-        return y == m ? x - y : -1;
+        return j == m ? i - j : -1;
     }
 
     public static int[] nextArray(char[] s, int m) {
@@ -56,8 +54,7 @@ public class Code01_KMP {
         int[] next = new int[m];
         next[0] = -1;
         next[1] = 0;
-        // i表示当前要求next值的位置
-        // cn表示当前要和前一个字符比对的下标
+        // cn表示当前要和i位置前一个字符比对的下标
         int i = 2, cn = 0;
         while (i < m) {
             if (s[i - 1] == s[cn]) {

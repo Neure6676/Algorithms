@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code03_TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part2/Code02_MaximumValueOfKcoinsFromPiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code03_LinkedListInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/StringHash/Part1/Code02_NumberOfUniqueString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code03_TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part1/Code03_TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code04_LastStoneWeightII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part1/Code04_LastStoneWeightII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code01_KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code01_KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +78,7 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_RussianDollEnvelopes">
+  <component name="RunManager" selected="Application.Code02_SubtreeOfAnotherTree">
     <configuration name="Code01_CreateGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Graph.Part1TopologicalOrder.Code01_CreateGraph" />
       <module name="Algorithm" />
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.OneD.Code01_FibonacciNumber" />
+    <configuration name="Code02_RussianDollEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.Code02_RussianDollEnvelopes" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.OneD.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_RussianDollEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.Code02_RussianDollEnvelopes" />
+    <configuration name="Code02_SubtreeOfAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.KMP.Part1.Code02_SubtreeOfAnotherTree" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.KMP.Part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_SubtreeOfAnotherTree" />
         <item itemvalue="Application.Code02_RussianDollEnvelopes" />
         <item itemvalue="Application.Code01_CreateGraph" />
         <item itemvalue="Application.Code06_WaitingTime" />
         <item itemvalue="Application.Code03_MinimumWindowSubstring" />
-        <item itemvalue="Application.Code01_FibonacciNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +211,9 @@
       <workItem from="1708132171516" duration="1201000" />
       <workItem from="1708391175956" duration="4626000" />
       <workItem from="1708642926960" duration="13350000" />
+      <workItem from="1708994145669" duration="8052000" />
+      <workItem from="1709328380305" duration="11000" />
+      <workItem from="1709927773525" duration="3209000" />
     </task>
     <servers />
   </component>

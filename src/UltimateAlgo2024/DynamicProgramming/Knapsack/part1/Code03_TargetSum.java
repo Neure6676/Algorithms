@@ -1,4 +1,4 @@
-package UltimateAlgo2024.DynamicProgramming.Knapsack;
+package UltimateAlgo2024.DynamicProgramming.Knapsack.part1;
 
 import java.util.HashMap;
 
