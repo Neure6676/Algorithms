@@ -42,11 +42,8 @@ public class Code03_SubstringHash {
     // 这样就得到子串"be"的哈希值了
     // 子串s[l...r]的哈希值 = hash[r] - hash[l-1] * base的(r-l+1)次方，就是上面说的意思
     public static int MAXN = 100005;
-
     public static int base = 499;
-
     public static long[] pow = new long[MAXN];
-
     public static long[] hash = new long[MAXN];
 
     public static void build(char[] s, int n) {
