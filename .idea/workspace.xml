@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part2/Code02_MaximumValueOfKcoinsFromPiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code03_LinkedListInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/StringHash/Part1/Code02_NumberOfUniqueString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code03_TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part1/Code03_TargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/Code04_LastStoneWeightII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/Knapsack/part1/Code04_LastStoneWeightII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code01_KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code01_KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/EntranceGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/FourWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/ParkingSpotManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/TwoWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/ParkingLot/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code01_LargestBstSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code02_MaximumSumBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code03_DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code04_DistributeCoins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +86,7 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_SubtreeOfAnotherTree">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Code01_CreateGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.Graph.Part1TopologicalOrder.Code01_CreateGraph" />
       <module name="Algorithm" />
@@ -118,19 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.SlidingWindow.Code03_MinimumWindowSubstring" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.SlidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Code06_WaitingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.BinarySearch.BSProblems.Code06_WaitingTime" />
       <module name="Algorithm" />
@@ -144,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD.ParkingLot.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LLD.ParkingLot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Code02_SubtreeOfAnotherTree" />
         <item itemvalue="Application.Code02_RussianDollEnvelopes" />
         <item itemvalue="Application.Code01_CreateGraph" />
         <item itemvalue="Application.Code06_WaitingTime" />
-        <item itemvalue="Application.Code03_MinimumWindowSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +221,7 @@
       <workItem from="1708642926960" duration="13350000" />
       <workItem from="1708994145669" duration="8052000" />
       <workItem from="1709328380305" duration="11000" />
-      <workItem from="1709927773525" duration="3209000" />
+      <workItem from="1709927773525" duration="30040000" />
     </task>
     <servers />
   </component>

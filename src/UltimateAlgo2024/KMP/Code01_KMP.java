@@ -1,4 +1,4 @@
-package UltimateAlgo2024.KMP.Part1;
+package UltimateAlgo2024.KMP;
 
 // https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 public class Code01_KMP {

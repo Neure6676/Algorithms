@@ -1,4 +1,4 @@
-package UltimateAlgo2024.KMP.Part1;
+package UltimateAlgo2024.KMP;
 
 // https://leetcode.com/problems/linked-list-in-binary-tree/
 public class Code03_LinkedListInBinaryTree {

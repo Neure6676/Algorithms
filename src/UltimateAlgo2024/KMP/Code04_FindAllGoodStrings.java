@@ -1,4 +1,4 @@
-package UltimateAlgo2024.KMP.Part1;
+package UltimateAlgo2024.KMP;
 
 // https://leetcode.com/problems/find-all-good-strings/
 public class Code04_FindAllGoodStrings {

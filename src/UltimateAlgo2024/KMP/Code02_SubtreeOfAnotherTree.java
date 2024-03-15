@@ -1,4 +1,4 @@
-package UltimateAlgo2024.KMP.Part1;
+package UltimateAlgo2024.KMP;
 
 import java.util.ArrayList;
 
