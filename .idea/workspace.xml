@@ -5,238 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa140eba-0751-496a-905c-ccde871c0374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class26/Code01_MinRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class27/Code02_MinPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class27/Problem_0001_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class27/Problem_0007_ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForOffer/Class28/Problem_0008_StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/EntranceGate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/ExitGate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/FourWheelerManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/ParkingSpot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/ParkingSpotManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/ParkingSpotManagerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/TwoWheelerManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LLD/ParkingLot/VehicleType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code04_DistributeCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/DynamicProgramming/TreeDP/Part1/Code04_DistributeCoins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code01_KMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code02_SubtreeOfAnotherTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code03_LinkedListInBinaryTree$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code03_LinkedListInBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code03_LinkedListInBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/UltimateAlgo2024/KMP/Part1/Code04_FindAllGoodStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForOffer/Class26/WordLadderII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/ATMState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/CashWithdrawalState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/CheckBalanceState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/HasCardState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/IdleState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/ATMStates/SelectOperationState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/AmountWithdrawal/CashWithdrawProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/AmountWithdrawal/FiveHundredWithdrawProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/AmountWithdrawal/OneHundredWithdrawProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/AmountWithdrawal/TwoThousandWithdrawProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/TransactionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignATM/UserBankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/BookMyShow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Booking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Enums/City.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Enums/SeatCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/MovieController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Screen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Seat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Show.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/Theatre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignBookMyShow/TheatreController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignDataStructures/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/CardPaymentMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Inventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/NearestWarehouseSelectionStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/PaymentMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/ProductCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/ProductDeliverySystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/UML.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/UPIPaymentMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/Warehouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseSelectionStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Client/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Director.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/EngineeringStudentBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/MBAStudentBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/StudentBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/HumanoidRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/IRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/RoboticDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/RoboticFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/Sprites.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/wordProcessor/DocumentCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/wordProcessor/ILetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/wordProcessor/LetterFactor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/FlyWeightPattern/wordProcessor/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/DebugLogProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/ErrorLogProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/InfoLogProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/LogProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Balance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/BalanceSheetController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Expense.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseSplitType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Split/ExpenseSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Split/Split.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Expense/SplitFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Group/Group.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Group/GroupController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/Splitwise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/User/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/User/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignSplitwise/UserExpenseBalanceSheet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/Coin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/Inventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/ItemShelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/ItemType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingStates/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/DispenseState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/HasMoneyState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/IdleState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/SelectionState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/HandleNullObject/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/HandleNullObject/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/HandleNullObject/NullVehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/HandleNullObject/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/HandleNullObject/VehicleFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Bill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/PaymentDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/PaymentMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/VehicleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/ReservationStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/ReservationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/VehicleInventoryManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/VehicleRentalSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Inning/BallDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Inning/BallType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Inning/InningDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Inning/OverDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Inning/RunType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Match.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/MatchType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/OneDayMatchType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BattingScoreUpdater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BowlingScoreUpdater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/ScoreUpdaterObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/T20MatchType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBattingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBowlingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BattingScoreCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BowlingScoreCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/Wicket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Team/WicketType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorCreator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorDoor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ExternalDispatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Floor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/InternalButtons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/InternalDispatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Cell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Jump.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PieceType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPiece.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/TicTacToeGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/EntranceGate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/ExitGate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/FourWheelerManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/ParkingSpot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/ParkingSpotManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/ParkingSpotManagerFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/Ticket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/TwoWheelerManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/ParkingLot/VehicleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part2/Code04_MinimumScoreAfterRemovals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/TreeDP/Part2/Code04_MinimumScoreAfterRemovals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/StatusDP/Part2/Code01_NumberOfWaysWearDifferentHats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UltimateAlgo2024/DynamicProgramming/StatusDP/Part2/Code01_NumberOfWaysWearDifferentHats.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,13 +74,13 @@
       <recent name="UltimateAlgo2024.Tree.Others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_MinPeople">
-    <configuration name="Code02_MinPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForOffer.Class27.Code02_MinPeople" />
+  <component name="RunManager" selected="Application.Code01_NumberOfWaysWearDifferentHats">
+    <configuration name="Code01_NumberOfWaysWearDifferentHats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.StatusDP.Part2.Code01_NumberOfWaysWearDifferentHats" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForOffer.Class27.*" />
+          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.StatusDP.Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_RussianDollEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.Code02_RussianDollEnvelopes" />
+    <configuration name="Code02_MinPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForOffer.Class27.Code02_MinPeople" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UltimateAlgo2024.DynamicProgramming.MaxSum.Part3.*" />
+          <option name="PATTERN" value="ForOffer.Class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_NumberOfWaysWearDifferentHats" />
         <item itemvalue="Application.Code02_MinPeople" />
         <item itemvalue="Application.Code04_MinimumScoreAfterRemovals" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Code02_SubtreeOfAnotherTree" />
-        <item itemvalue="Application.Code02_RussianDollEnvelopes" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +209,7 @@
       <workItem from="1708642926960" duration="13350000" />
       <workItem from="1708994145669" duration="8052000" />
       <workItem from="1709328380305" duration="11000" />
-      <workItem from="1709927773525" duration="58976000" />
+      <workItem from="1709927773525" duration="64535000" />
     </task>
     <servers />
   </component>
